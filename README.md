@@ -23,6 +23,9 @@
 </a>
 </p>
 
+### Snake eating my contribution graph
+![snake gif](https://github.com/alperentvs/alperentvs/blob/output/github-contribution-grid-snake.gif)
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
