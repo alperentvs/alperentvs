@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alperen TAVAS</h1>
-<h3 align="center">A Computer Engineering Student</h3>
+<h3 align="center">DevOps & Cloud Native Engineer </h3>
 
 ### 🛠 &nbsp;Tech Stack
 
